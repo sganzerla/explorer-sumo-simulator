@@ -23,9 +23,9 @@ E por último adicionar os 3 endereços abaixo às variáveis de ambiente do sis
 
 ## Importação de mapas 
 
-Vídeo completo (e curto) demonstrando o funcionamento  [video](https://youtu.be/bqSr48y97o8)
+Vídeo completo (e curto) demonstrando o funcionamento  video
 
-![image](https://user-images.githubusercontent.com/22710963/131519389-5d4eb79d-a112-4864-b2b1-045544eb4c63.png)
+[![Vídeo](https://user-images.githubusercontent.com/22710963/131519389-5d4eb79d-a112-4864-b2b1-045544eb4c63.png)](https://youtu.be/bqSr48y97o8)
 
 ## Resolução de problemas
 
