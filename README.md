@@ -1,23 +1,23 @@
-# :oncoming_automobile: explorer-sumo-simulator
+# explorer-sumo-simulator :oncoming_automobile:
 
-## :zap: Tópicos
+## Tópicos :zap:
 
 - [Instalando no W10](pages/README.md) - Tutorial de configuração do SUMO e importação de um fluxo extraído do Open Street Map (OSM)
 
-## :mag_right: Ferramentas
+## Ferramentas :mag_right:
 
-### :point_right: Simulação
+### Simulação :point_right: 
 
 - [SUMO](https://sumo.dlr.de/docs/) - Aplicação para microsimulação de fluxo de veículos
 
-### :point_right: Editar rede viária
+### Editar rede viária :point_right: 
 
 - [OSMWebWizard](https://sumo.dlr.de/docs/Tutorials/OSMWebWizard.html) - Exporta uma rede viária com um mapa real com um fluxo de tráfego aleatório para ser executado dentro do SUMO.
 - [NETCONVERT](https://sumo.dlr.de/docs/netconvert.html) - Importa/exporta redes viárias para outros formatos (console application)
 - [NETEDIT](https://sumo.dlr.de/docs/Netedit/index.html) - Editor de rede viária (GUI)
 - [NETGENERATE](https://sumo.dlr.de/docs/netgenerate.html) - Gera redes abstratas para o SUMO
 
-### :point_right: Definir fluxo do tráfego
+### Definir fluxo do tráfego :point_right: 
 
 - [DUAROUTER](https://sumo.dlr.de/docs/duarouter.html) - Calcula rota mais eficiente baseando-se no caminho mais curto
 - [JTRROUTER](https://sumo.dlr.de/docs/jtrrouter.html) - Calcula rotas baseados no volume do tráfego e na junção dos cruzamentos
@@ -25,9 +25,9 @@
 - [OD2TRIPS](https://sumo.dlr.de/docs/od2trips.html) - Importa matrizes O/D(Origem/destino) e as divide em um único veículo
 - [ACTIVITYGEN](https://sumo.dlr.de/docs/activitygen.html) - Calcula a mobilidade desejada para uma população 
 
-## :vertical_traffic_light: Conceitos Básicos de Tráfego
+## Conceitos Básicos de Tráfego :vertical_traffic_light: 
 
-### :construction: Insfraestrutura viária
+### Insfraestrutura viária :construction:
 
 #### Vias
 
@@ -55,7 +55,7 @@
 - Estacionamentos
 - Entradas e saídas de veículos
 
-### :car: Veículos
+### Veículos :car:
 
 #### Características
 
@@ -71,7 +71,7 @@
 - Escolha de rotas (flexíveis ou fixas)
 - Tempo de reação (tempo para reagir sinal verde, manter distância do veículo da frente)
 
-### :airplane: Viagens
+### Viagens :airplane:
 
 #### Demanda
 
