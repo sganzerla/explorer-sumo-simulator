@@ -6,18 +6,18 @@
 
 ## Ferramentas :mag_right:
 
-### Simulação :point_right: 
+### Simulação
 
 - [SUMO](https://sumo.dlr.de/docs/) - Aplicação para microsimulação de fluxo de veículos
 
-### Editar rede viária :point_right: 
+### Editar rede viária
 
 - [OSMWebWizard](https://sumo.dlr.de/docs/Tutorials/OSMWebWizard.html) - Exporta uma rede viária com um mapa real com um fluxo de tráfego aleatório para ser executado dentro do SUMO.
 - [NETCONVERT](https://sumo.dlr.de/docs/netconvert.html) - Importa/exporta redes viárias para outros formatos (console application)
 - [NETEDIT](https://sumo.dlr.de/docs/Netedit/index.html) - Editor de rede viária (GUI)
 - [NETGENERATE](https://sumo.dlr.de/docs/netgenerate.html) - Gera redes abstratas para o SUMO
 
-### Definir fluxo do tráfego :point_right: 
+### Definir fluxo do tráfego
 
 - [DUAROUTER](https://sumo.dlr.de/docs/duarouter.html) - Calcula rota mais eficiente baseando-se no caminho mais curto
 - [JTRROUTER](https://sumo.dlr.de/docs/jtrrouter.html) - Calcula rotas baseados no volume do tráfego e na junção dos cruzamentos
@@ -43,7 +43,7 @@
 - Limites operacionais (regras de velocidade, movimentos permitidos)
 - Avisos e informações
 
-#### Semafáros
+#### Semáfaros
 
 - Fases e seus tempos
 - Vias e faixas controladas
