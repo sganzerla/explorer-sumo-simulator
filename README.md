@@ -29,6 +29,59 @@
 
 ### :construction: Insfraestrutura viária
 
+#### Vias
+
+- Tipo de piso (asfaltadas, chão batido)
+- Faixas de rolamento (quantidade, largura)
+- Declividade
+- Resistência do piso (peso suportado)
+- Conexões e outras vias
+
+#### Sinalização
+
+- Permissões de tráfego (restrições a veículos por horário)
+- Limites operacionais (regras de velocidade, movimentos permitidos)
+- Avisos e informações
+
+#### Semafáros
+
+- Fases e seus tempos
+- Vias e faixas controladas
+- Programações ao longo do dia
+
+#### Outros elementos
+
+- Viadutos/passagens subterâneas
+- Estacionamentos
+- Entradas e saídas de veículos
+
 ### :car: Veículos
 
+#### Características
+
+- Dimensões
+- Capacidade e carga transportada
+- Desempenho (aranque, frenagem, velocidade máxima, consumo ...)
+- Restrições de acesso (tipo de via exigida: trilhos, rio, mar, rampa, calçada, ciclovia)
+- Poluição (sonora, gases)
+
+#### Comportamento Condutor
+
+- Agressividade
+- Escolha de rotas (flexíveis ou fixas)
+- Tempo de reação (tempo para reagir sinal verde, manter distância do veículo da frente)
+
 ### :airplane: Viagens
+
+#### Demanda
+
+- Quantidade de veículos por rota
+- Desempenho do pelotão (bloco uniforme ou distribuído)
+- Distribuição temporal dos veículos (quantidade de veículos por tempo trafegam)
+- Comportamento do bloco (agressivos ou pacientes)
+- Tipos de veículos
+
+#### Rota
+
+- Itinerário
+- Alterações
