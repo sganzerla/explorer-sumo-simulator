@@ -24,3 +24,11 @@
 - [DFROUTER](https://sumo.dlr.de/docs/dfrouter.html) - Calcula rotas usando valores induzidos em laços de repetição
 - [OD2TRIPS](https://sumo.dlr.de/docs/od2trips.html) - Importa matrizes O/D(Origem/destino) e as divide em um único veículo
 - [ACTIVITYGEN](https://sumo.dlr.de/docs/activitygen.html) - Calcula a mobilidade desejada para uma população 
+
+## :vertical_traffic_light: Conceitos Básicos de Tráfego
+
+### :construction: Insfraestrutura viária
+
+### :car: Veículos
+
+### :airplane: Viagens
