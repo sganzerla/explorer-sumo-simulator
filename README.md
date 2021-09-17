@@ -1,10 +1,10 @@
-# explorer-sumo-simulator :oncoming_automobile:
+# :oncoming_automobile: explorer-sumo-simulator 
 
-## Tópicos :zap:
+## :zap: Tópicos 
 
 - [Instalando no W10](pages/README.md) - Tutorial de configuração do SUMO e importação de um fluxo extraído do Open Street Map (OSM)
 
-## Ferramentas :mag_right:
+## :mag_right: Ferramentas 
 
 ### Simulação
 
@@ -25,9 +25,9 @@
 - [OD2TRIPS](https://sumo.dlr.de/docs/od2trips.html) - Importa matrizes O/D(Origem/destino) e as divide em um único veículo
 - [ACTIVITYGEN](https://sumo.dlr.de/docs/activitygen.html) - Calcula a mobilidade desejada para uma população 
 
-## Conceitos Básicos de Tráfego :vertical_traffic_light: 
+## :vertical_traffic_light: Conceitos Básicos de Tráfego 
 
-### Insfraestrutura viária :construction:
+### Insfraestrutura viária  
 
 #### Vias
 
@@ -55,7 +55,7 @@
 - Estacionamentos
 - Entradas e saídas de veículos
 
-### Veículos :car:
+### Veículos  
 
 #### Características
 
@@ -71,7 +71,7 @@
 - Escolha de rotas (flexíveis ou fixas)
 - Tempo de reação (tempo para reagir sinal verde, manter distância do veículo da frente)
 
-### Viagens :airplane:
+### Viagens 
 
 #### Demanda
 
