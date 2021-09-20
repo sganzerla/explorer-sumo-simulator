@@ -2,15 +2,15 @@
 
 ## Índice
 
-- [:zap: Tópicos](## :zap: Tópicos)
-- [:mag_right: Ferramentas](## :mag_right: Ferramentas)
-- [:mag_right: Ferramentas](## :mag_right: Ferramentas)
+- ⚡ [Tópicos](#-tópicos)
+- 🔎 [Ferramentas](#-ferramentas)
+- 🚦 [Conceitos Básicos de Tráfego](#-conceitos-básicos-de-tráfego)
 
-## :zap: Tópicos
+ ## ⚡ Tópicos 
 
 - [Instalando no W10](pages/README.md) - Tutorial de configuração do SUMO e importação de um fluxo extraído do Open Street Map (OSM)
 
-## :mag_right: Ferramentas
+## 🔎 Ferramentas
 
 ### Simulação
 
@@ -31,7 +31,7 @@
 - [OD2TRIPS](https://sumo.dlr.de/docs/od2trips.html) - Importa matrizes O/D(Origem/destino) e as divide em um único veículo
 - [ACTIVITYGEN](https://sumo.dlr.de/docs/activitygen.html) - Calcula a mobilidade desejada para uma população 
 
-## :vertical_traffic_light: Conceitos Básicos de Tráfego
+## 🚦 Conceitos Básicos de Tráfego
 
 ### Insfraestrutura viária  
 
