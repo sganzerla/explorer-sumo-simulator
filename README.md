@@ -4,7 +4,7 @@
 
 - ⚡ [Tópicos](#-tópicos)
 - 🔎 [Ferramentas](#-ferramentas)
-  - [Simulação](#simulção)  
+  - [Simulação](#simulação)  
   - [Rede Viária](#rede-viária)  
   - [Fluxo do Tráfego](#fluxo-do-tráfego)
 - 🚦 [Conceitos Básicos de Tráfego](#-conceitos-básicos-de-tráfego)
