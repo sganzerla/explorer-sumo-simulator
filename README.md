@@ -3,7 +3,7 @@
 ## Índice
 
 - ⚡ [1 - Tópicos](#-1-tópicos)
-- 🔎 [2 - Ferramentas](#-2-ferramentas)
+- 🔧 [2 - Ferramentas](#-2-ferramentas)
   - [2.1 - Simulação](#21-simulação)  
   - [2.2 - Rede Viária](#22-rede-viária)  
   - [2.3 - Fluxo do Tráfego](#23-fluxo-do-tráfego)
@@ -16,7 +16,7 @@
 
 - [Instalando no W10](pages/README.md) - Tutorial de configuração do SUMO e importação de um fluxo extraído do Open Street Map (OSM)
 
-## 🔎 2 Ferramentas
+## 🔧 2 Ferramentas
 
 ### 2.1 Simulação
 
