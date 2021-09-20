@@ -1,7 +1,8 @@
 # :oncoming_automobile: explorer-sumo-simulator
 
-## Índice
+## 📝 Índice
 
+- 🏁 [Introdução](#-0-introducao) 
 - ⚡ [1 - Tópicos](#-1-tópicos)
 - 🔧 [2 - Ferramentas](#-2-ferramentas)
   - [2.1 - Simulação](#21-simulação)  
@@ -11,6 +12,18 @@
   - [3.1 - Infraestrutura Viária](#31-infraestrutura-viária)
   - [3.2 - Veículos](#32-veículos)
   - [3.3 - Viagens](#33-viagens)
+- 📗 [4 - Fontes](#-4-fontes)
+
+## 🏁 0 Introdução
+
+Com simulador SUMO é possível fazer simulações de trânsito. Entre outras funcionalidades ele permite:
+- Definir diferentes veículos
+- Definir limite de velocidade, faixas exclusivas da pista
+- Tempo dos semáfaros
+- Ciclos do transporte público
+- Comportamento diferente do fluxo: quantidade, sentido
+- Importar rede e dados de outros simuladores
+- Gerar relatórios e estatísticas
 
  ## ⚡ 1 Tópicos 
 
@@ -97,3 +110,8 @@
 
 - Itinerário
 - Alterações
+
+## 📗 4 Fontes
+
+- [Curso Udemy Ferramenta de Microssimulação de Tráfego SUMO](https://www.udemy.com/course/ferramenta-de-microssimulacao-de-trafego-sumo) de Ednardo de Oliveira Ferreira - Acessado Set/2021
+
