@@ -2,7 +2,7 @@
 
 Tutorial simples, para realizar a configuração da ferramenta de simulação SUMO (Version 1.10.0) em sistema operacional Windows 10.
 
-![image](ezgif.com-gif-maker.gif)
+![image](../ezgif.com-gif-maker.gif)
 
 ## Pré-Requisito
 
@@ -26,10 +26,6 @@ E por último adicionar os 3 endereços abaixo às variáveis de ambiente do sis
 Vídeo completo (e curto) demonstrando o funcionamento  video
 
 [![Vídeo](https://user-images.githubusercontent.com/22710963/131519389-5d4eb79d-a112-4864-b2b1-045544eb4c63.png)](https://youtu.be/bqSr48y97o8)
-
-## Resolução de problemas
-
-Caso o processo de importação de mapas apresente erro, no meu caso bastou reinstalar com o mesmo instalador.
 
 ## Fonte
 
