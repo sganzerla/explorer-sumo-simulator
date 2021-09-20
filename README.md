@@ -8,7 +8,7 @@
   - [Rede Viária](#rede-viária)  
   - [Fluxo do Tráfego](#fluxo-do-tráfego)
 - 🚦 [Conceitos Básicos de Tráfego](#-conceitos-básicos-de-tráfego)
-  - [Insfraestrutura Viária](#insfraestrutura-viária)
+  - [Infraestrutura Viária](#infraestrutura-viária)
   - [Veículos](#veículos)
   - [Viagens](#viagens)
 
@@ -39,7 +39,7 @@
 
 ## 🚦 Conceitos Básicos de Tráfego
 
-### Insfraestrutura viária  
+### Infraestrutura viária  
 
 #### Vias
 
