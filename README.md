@@ -2,14 +2,14 @@
 
 ## Índice
 
-- ⚡ [Tópicos](#-topicos)
+- ⚡ [Tópicos](#-tópicos)
 - 🔎 [Ferramentas](#-ferramentas)
-  - [Simulação](#simulacao)  
-  - [Rede Viária](#rede-viaria)  
-  - [Fluxo do Tráfego](#fluxo-do-trafego)
-- 🚦 [Conceitos Básicos de Tráfego](#-conceitos-basicos-de-trafego)
-  - [Insfraestrutura Viária](#insfraestrutura-viaria)
-  - [Veículos](#veiculos)
+  - [Simulação](#simulção)  
+  - [Rede Viária](#rede-viária)  
+  - [Fluxo do Tráfego](#fluxo-do-tráfego)
+- 🚦 [Conceitos Básicos de Tráfego](#-conceitos-básicos-de-tráfego)
+  - [Insfraestrutura Viária](#insfraestrutura-viária)
+  - [Veículos](#veículos)
   - [Viagens](#viagens)
 
  ## ⚡ Tópicos 
