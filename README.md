@@ -14,7 +14,7 @@
   - 3.3 [Viagens](#33-viagens)
 - 4 - 📗 [Fontes](#-4-fontes)
 
-## 0 🏁 Introdução
+## 0 - Introdução
 
 Com simulador SUMO é possível fazer simulações de trânsito. Entre outras funcionalidades ele permite:
 - Definir diferentes veículos
@@ -25,7 +25,7 @@ Com simulador SUMO é possível fazer simulações de trânsito. Entre outras fu
 - Importar rede e dados de outros simuladores
 - Gerar relatórios e estatísticas
 
- ## ⚡ 1 Tópicos 
+ ## 1 - Tópicos 
 
 - [Instalando no W10](pages/README.md) - Tutorial de configuração do SUMO e importação de um fluxo extraído do Open Street Map (OSM)
 
