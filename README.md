@@ -14,7 +14,7 @@
   - 3.3 [Viagens](#33-viagens)
 - 4 - 📗 [Fontes](#-4-fontes)
 
-## 0 - Introdução
+## 0-Introdução
 
 Com simulador SUMO é possível fazer simulações de trânsito. Entre outras funcionalidades ele permite:
 - Definir diferentes veículos
