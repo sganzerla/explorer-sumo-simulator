@@ -16,16 +16,19 @@
 
 ## 0 Introdução
 
-Com simulador SUMO é possível fazer simulações de trânsito. Entre outras funcionalidades ele permite:
-- Definir diferentes veículos
-- Definir limite de velocidade, faixas exclusivas da pista
+Com simulador SUMO é possível fazer simulações de trânsito personalizando vários parâmetros, entre outras coisas ele permite:
+
+- Definir diferentes tipos de veículos
+- Definir pistas com limite de velocidade, faixas exclusivas para transporte coletivo, ciclovias
 - Tempo dos semáfaros
-- Ciclos do transporte público
+- Ciclos do transporte público e itinerários
 - Comportamento diferente do fluxo: quantidade, sentido
 - Importar rede e dados de outros simuladores
 - Gerar relatórios e estatísticas
 
- ## 1 Tópicos 
+A rede de simulação é gerada baseada na teoria dos grafos, utilizando fortemente os conceitos de `nós` e `arcos` para representar, identificar e controlar as vias.
+
+## 1 Tópicos
 
 - [Instalando no W10](pages/README.md) - Tutorial de configuração do SUMO e importação de um fluxo extraído do Open Street Map (OSM)
 
