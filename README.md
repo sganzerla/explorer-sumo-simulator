@@ -2,7 +2,7 @@
 
 ## 📝 Índice
 
-- 0 - 🏁 [Introdução](#0-introducao) 
+- 0 - 🏁 [Introdução](#0.-introducao) 
 - 1 - ⚡ [Tópicos](#-1-tópicos)
 - 2 - 🔧 [Ferramentas](#-2-ferramentas)
   - 2.1 [Simulação](#21-simulação)  
