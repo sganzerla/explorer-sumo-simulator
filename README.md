@@ -2,19 +2,19 @@
 
 ## 📝 Índice
 
-- 🏁 [Introdução](#-0-introducao) 
-- ⚡ [1 - Tópicos](#-1-tópicos)
-- 🔧 [2 - Ferramentas](#-2-ferramentas)
-  - [2.1 - Simulação](#21-simulação)  
-  - [2.2 - Rede Viária](#22-rede-viária)  
-  - [2.3 - Fluxo do Tráfego](#23-fluxo-do-tráfego)
-- 🚦 [3 - Conceitos Básicos de Tráfego](#-3-conceitos-básicos-de-tráfego)
-  - [3.1 - Infraestrutura Viária](#31-infraestrutura-viária)
-  - [3.2 - Veículos](#32-veículos)
-  - [3.3 - Viagens](#33-viagens)
-- 📗 [4 - Fontes](#-4-fontes)
+- 0 - 🏁 [Introdução](#0-introducao) 
+- 1 - ⚡ [Tópicos](#-1-tópicos)
+- 2 - 🔧 [Ferramentas](#-2-ferramentas)
+  - 2.1 [Simulação](#21-simulação)  
+  - 2.2 [Rede Viária](#22-rede-viária)  
+  - 2.3 [Fluxo do Tráfego](#23-fluxo-do-tráfego)
+- 3 - 🚦 [Conceitos Básicos de Tráfego](#-3-conceitos-básicos-de-tráfego)
+  - 3.1 [Infraestrutura Viária](#31-infraestrutura-viária)
+  - 3.2 [Veículos](#32-veículos)
+  - 3.3 [Viagens](#33-viagens)
+- 4 - 📗 [Fontes](#-4-fontes)
 
-## 🏁 0 Introdução
+## 0 🏁 Introdução
 
 Com simulador SUMO é possível fazer simulações de trânsito. Entre outras funcionalidades ele permite:
 - Definir diferentes veículos
