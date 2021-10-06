@@ -12,18 +12,18 @@ Tutorial simples, para realizar a configuração da ferramenta de simulação SU
 
 ## Instalação Sumo
 
-No site oficial da ferramenta baixar a versão latest 64bit [aqui](https://sumo.dlr.de/docs/Downloads.php).
+No site oficial da ferramenta baixar a versão `latest` 64bit [aqui](https://sumo.dlr.de/docs/Downloads.php).
 
 Depois avançar, avançar até o final sem alterar nada.
 
-E por último adicionar os 3 endereços abaixo às variáveis de ambiente do sistema "PATH". 
+E por último adicionar os 3 endereços abaixo às variáveis de ambiente do sistema `PATH`. 
 
 ![image](https://user-images.githubusercontent.com/22710963/131513290-b2dff337-0715-4939-bbaa-31a9d2edefbb.png)
 
 
 ## Importação de mapas 
 
-Vídeo completo (e curto) demonstrando o funcionamento  video
+Vídeo completo (e curto) demonstrando o funcionamento 
 
 [![Vídeo](https://user-images.githubusercontent.com/22710963/131519389-5d4eb79d-a112-4864-b2b1-045544eb4c63.png)](https://youtu.be/bqSr48y97o8)
 
