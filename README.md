@@ -12,7 +12,8 @@
   - 3.1 [Infraestrutura Viária](#31-infraestrutura-viária)
   - 3.2 [Veículos](#32-veículos)
   - 3.3 [Viagens](#33-viagens)
-- 4 - 📗 [Fontes](#4-fontes)
+- 4 - 🔍 [Aplicação](#4-aplicação)
+- 5 - 📗 [Fontes](#5-fontes)
 
 ## 0 Introdução
 
@@ -114,7 +115,21 @@ A rede de simulação é gerada baseada na teoria dos grafos, utilizando forteme
 - Itinerário
 - Alterações
 
-## 4 Fontes
+## 4 Aplicação
+
+Indicado tanto para planejamento urbano quanto para pesquisas científicas:
+  - Planejamento urbano:
+    - Novas estradas/ruas
+    - Alteração de sentido de pistas
+    - Temporização/Adição de semáforos
+  - Pesquisa científica, áreas de estudo:
+    - Redes de Computadores
+    - Sistemas Distribuídos
+    - Otimização/Pesquisa Operacional
+    - Inteligência Artificial
+    - Mobilidade Urbana
+
+## 5 Fontes
 
 - [Curso Udemy Ferramenta de Microssimulação de Tráfego SUMO](https://www.udemy.com/course/ferramenta-de-microssimulacao-de-trafego-sumo) de Ednardo de Oliveira Ferreira - Acessado Set/2021
 
