@@ -16,7 +16,7 @@
 
 ## 0 Introdução
 
-Com simulador SUMO é possível fazer simulações de trânsito personalizando vários parâmetros, entre outras coisas ele permite:
+Com simulador SUMO é possível fazer simulações de trânsito personalizando vários parâmetros. Alguns exemplos entre outras coisas que são possíveis:
 
 - Definir diferentes tipos de veículos
 - Definir pistas com limite de velocidade, faixas exclusivas para transporte coletivo, ciclovias
