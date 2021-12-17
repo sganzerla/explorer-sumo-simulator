@@ -37,8 +37,8 @@ A rede de simulação é gerada baseada na teoria dos grafos, utilizando forteme
 
 ### 2.1 Simulação
 
-- [SUMO](https://sumo.dlr.de/docs/) - Aplicação para microsimulação de fluxo de veículos
-- [TRACI](https://sumo.dlr.de/docs/TraCI.html) - Interface de controle de tráfeco em tempo real dispensando interface gráfica do SUMO.
+- [SUMO](https://sumo.dlr.de/docs/) - Aplicação gráfica para microsimulação de fluxo de veículos
+- [TRACI](https://sumo.dlr.de/docs/TraCI.html) - Interface de controle de tráfego em tempo real dispensando interface gráfica do SUMO.
 
 ### 2.2 Rede Viária
 
