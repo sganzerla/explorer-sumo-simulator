@@ -71,7 +71,7 @@ Criando rede de simulação com mapa importado do Open Street Map (OSM)
 Colocar no campo de busca local desejado para a simulação, clicando em `Search`, com o resultado selecionar a área desejada e clicar em `Generate Scenario`.
 Pode-se ainda escolher alguns itens opcionais para importar junto com a simulação como o sistema do transporte público e o tráfego de veículos gerados (caminhões, motos, trens, bicicletas etc...
 
-![image](start-ubuntu/OSM.png)
+![image](OSM.png)
 
 ## Fonte
 
