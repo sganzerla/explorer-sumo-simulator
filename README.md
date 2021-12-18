@@ -31,7 +31,7 @@ A rede de simulação é gerada baseada na teoria dos grafos, utilizando forteme
 
 ## 1 Tópicos
 
-- [Instalando no W10](pages/README.md) - Tutorial de configuração do SUMO e importação de um fluxo extraído do Open Street Map (OSM)
+- [Instalando no W10](start-w10/README.md) - Tutorial de configuração do SUMO e importação de um fluxo extraído do Open Street Map (OSM)
 
 ## 2 Ferramentas
 
