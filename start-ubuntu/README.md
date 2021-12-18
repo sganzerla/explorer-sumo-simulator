@@ -79,4 +79,4 @@ Digital Ocean[Configurando Python](https://www.digitalocean.com/community/tutori
 
 SUMO [doc Linux](https://sumo.dlr.de/docs/Installing/Linux_Build.html). Acessado em Dezembro 2021.
 
-UNICAMP [tutorial Hello World](https://cst.fee.unicamp.br/sites/default/files/sumo/sumo-roadmap.pdf)
+UNICAMP [tutorial Hello World](https://cst.fee.unicamp.br/sites/default/files/sumo/sumo-roadmap.pdf). Acessado em Dezembro 2021.
