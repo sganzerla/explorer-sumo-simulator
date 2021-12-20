@@ -62,7 +62,6 @@ Ativar o ambiente de desenvolvimento
 Criar diretório de preferência
 
     cd home/user/Documentos/my_project
-    sumo -c example.sumocfg
 
 Criando rede de simulação com mapa importado do Open Street Map (OSM)
 
