@@ -4,58 +4,42 @@ Tutorial simples, para realizar a configuração da ferramenta de simulação SU
 
 ## Pré-Requisito
 
-### SUMO
+Instalação do Python e outras libs úteis
 
-Instalação do simulador
+    sudo apt-get install cmake python g++ libxerces-c-dev libfox-1.6-dev libgdal-dev libproj-dev libgl2ps-dev swig
 
-    sudo apt-get install sumo sumo-tools sumo-doc
+## Instalação do SUMO
 
-Testar se pograma foi instalado
+Download via repositório oficial
 
-    sumo-gui
+    sudo apt install git
+    git clone --recursive https://github.com/eclipse/sumo
 
-Verificar se variável de ambiente está setada (deve retornar path do SUMO)
+Setar variável de ambiente
 
-    echo $SUMO_HOME
+    export SUMO_HOME="$PWD/sumo"
+    nano .bashrc
 
+Colocar essas duas linhas com o path de instalação do SUMO
 
-### Python (3.8.10): 
+    # ~/.bashrc: executed by bash(1) for non-login shells.
+    # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
+    # for examples
 
-Realizei a instalação da versão 3.8.10 (pode ser que versões mais novas ou mais antigas também funcionem)
+    export PATH=$PATH:/home/alisson/sumo/bin
+    export SUMO_HOME=/home/alisson/sumo
 
-Comando  para verificar versão instalada
+    # If not running interactively, don't do anything
+    case $- in
+        *i*) ;;
+        *) return;;
+    esac
 
-    python --version
+Executar scritpts de configuração
 
-Comando para instalar 3.8 [by digitalocean](https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-programming-environment-on-an-ubuntu-20-04-server-pt)
-
-    sudo apt update
-    sudo apt -y upgrade
-    python3 -V
-
-Para gerenciar os pacotes de software do Python, instalar o pip
-
-    sudo apt install -y python3-pip
-
-Kit de pacotes e ferramentas de desenvolvimento
-
-    sudo apt install -y build-essential libssl-dev libffi-dev python3-dev
-
-### Ambiente de desenvolvimento Python
-
-Criar pasta em qualquer diretório
-
-    mkdir environments
-    cd environments
-
-Criar um ambiente de desenvolvimento
-
-    python3 -m venv my_env
-
-Ativar o ambiente de desenvolvimento
-
-    cd my_env
-    source bin/activate
+    mkdir sumo/build/cmake-build && cd sumo/build/cmake-build
+    cmake ../..
+    make -j8
 
 ## Criando primeira simulação
 
@@ -74,7 +58,7 @@ Pode-se ainda escolher alguns itens opcionais para importar junto com a simulaç
 
 ## Fonte
 
-Digital Ocean[Configurando Python](https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-programming-environment-on-an-ubuntu-20-04-server-pt). Acessado em Dezembro 2021.
+ENGINEERING CLINIC[Installation of SUMO 1.2.0 in Ubuntu 18.04](https://www.nsnam.com/2019/06/installation-of-sumo-120-in-ubuntu-1804.html). Acessado em Dezembro 2021.
 
 SUMO [doc Linux](https://sumo.dlr.de/docs/Installing/Linux_Build.html). Acessado em Dezembro 2021.
 
